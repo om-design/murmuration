@@ -1,3 +1,39 @@
+# Pattern Name
+
+*A pattern for human-agent collaboration*
+
+---
+
+## Context
+
+Where and when does this pattern apply? What situation are you in?
+
+## Problem
+
+What difficulty or tension arises in this context?
+
+**Forces at play:**
+- Competing concerns that make this hard
+- Constraints you're working within
+- Why naive solutions don't work
+
+## Solution
+
+**∴ The core insight — what to do.**
+
+Explain the solution. Give examples if helpful.
+
+## Resulting Context
+
+What becomes true after applying this pattern? What new possibilities or tradeoffs emerge?
+
+## Related Patterns
+
+https
+
+---
+
+*Emerged from dialogue between [Human] and [Agent], [Date]*
 # AGENTS.md
 
 **BIAS – Basic Institutional and Academic Stringency**  
